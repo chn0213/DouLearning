@@ -10,3 +10,6 @@
 
 ## 电子书及DuoZero论文
 [阿里云](https://www.aliyundrive.com/s/DwLk8fsKeuN)
+
+## chn正在看
+强化学习入门——从原理到实践（没找到pdf）,微信图书上有。
